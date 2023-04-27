@@ -22,7 +22,7 @@ namespace hak
             //string port = "3306";
             //string password = "1234";
             //string connectionStr = "server" + serverName + ";user=" + userName + ";database" + dbName + ";port" + port + ";password=" + password; 
-
+            //asdg
 
             
             string firstPattern = @"~!(.*?)!~"; // –егул€рное выражение дл€ поиска текста между "!"
